@@ -8,8 +8,8 @@ Upload any CSV file, ask questions in plain English, and an AI agent answers by 
 1. Install Python 3.10 or newer.
 2. Clone the repo and install the dependencies:
 ```
-   git clone https://github.com/aadya-builds/byte_agentic_analyst.git
-   cd byte_agentic_analyst
+   git clone https://github.com/aadya-builds/byte-agentic-analyst.git
+   cd byte-agentic-analyst
    pip install -r requirements.txt
 ```
 3. Get a free Gemini API key from https://aistudio.google.com
